@@ -1,9 +1,7 @@
 # Accessible Tabs
-
 This project implements accessible tabs using HTML, CSS, and JavaScript. The tabs are designed to be navigable and usable for all users, including those who rely on assistive technologies. Below is a brief guide on how to use and customize the accessible tabs.
 
 ## Table of Contents
-
 * Overview
 * Usage
 * Structure
@@ -11,12 +9,11 @@ This project implements accessible tabs using HTML, CSS, and JavaScript. The tab
 * JavaScript
 
 ## Overview
-
 The project includes a set of tabs, each containing a title, content, and an associated image. Users can switch between tabs using a list of indexes or by clicking on the tabs directly. The content is designed to be readable and interactive.
 
 ## Usage
-
 1. Clone the repository:
+
 ```
 git clone https://github.com/nferdica/accessible-tabs
 ```
