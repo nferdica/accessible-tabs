@@ -2,14 +2,14 @@
 This project implements accessible tabs using HTML, CSS, and JavaScript. The tabs are designed to be navigable and usable for all users, including those who rely on assistive technologies. Below is a brief guide on how to use and customize the accessible tabs.
 
 ## Images
-[![Accessible tab contents](assets/img/tabs-content.png)]
+![Accessible tab contents](assets/img/tabs-content.png)
 
 ## Table of Contents
-* [Overview]
-* [Usage]
-* [Structure]
-* [Styling]
-* [JavaScript]
+* [Overview](#overview)
+* [Usage](#usage)
+* [Structure](#structure)
+* [Styling](#styling)
+* [JavaScript](#javascript)
 
 ## Overview
 The project includes a set of tabs, each containing a title, content, and an associated image. Users can switch between tabs using a list of indexes or by clicking on the tabs directly. The content is designed to be readable and interactive.
